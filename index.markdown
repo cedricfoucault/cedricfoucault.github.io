@@ -8,7 +8,7 @@ title: Cédric Foucault
 
 **Contact:** cedric.foucault<span style="font-size: 66%;"> at </span>gmail<span style="font-size: 66%;"> dot </span>com <br/>
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
-[CV](/assets/CV_us_cedric_2022-06.pdf)
+[CV](/assets/CV_en_Cedric_Foucault_2022-06.pdf)
 
 I’m a second-year PhD student at NeuroSpin under the supervision of Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). I am interested in using mathematical and computational models to understand human behavior and the cognitive processes that underlie it, in relation to the brain and its environment. I am pursuing a research career in cognitive and computational neuroscience.
 
