@@ -8,7 +8,7 @@ title: Cédric Foucault
 
 **Contact:** cedric.foucault<span style="font-size: 66%;"> at </span>gmail<span style="font-size: 66%;"> dot </span>com <br/>
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
-[CV](/assets/CV_en_Cedric_Foucault_2022-06.pdf)
+[CV](/assets/CV_en_Cedric_Foucault_2022-08.pdf)
 
 I’m a second-year PhD student at NeuroSpin under the supervision of Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). I am interested in using mathematical and computational models to understand human behavior and the cognitive processes that underlie it, in relation to the brain and its environment. I am pursuing a research career in cognitive and computational neuroscience.
 
@@ -20,7 +20,7 @@ During my PhD, I have used multiple levels of investigation to study sequential 
 
 2. At the neural level. fMRI project (paper in preparation) "A neural code for probabilities". We are investigating how the learned probabilities are encoded in the human brain.
 
-3. At the behavioral level. Behavioral experiment in preparation. I am designing and conducting a new task and behavioral study to investigate the trial-by-trial updating of human probability estimates at a much finer level of granularity than previous studies.
+3. At the behavioral level. Behavioral experiment in preparation. I am designing and conducting a new task and study to probe human updates continuously during learning in dynamic environments.
 
 In the past, I also published several research works in human-computer interaction before I turned to cognitive neuroscience. You can find out more in my above CV.
 
