@@ -10,7 +10,7 @@ title: Cédric Foucault
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
 [CV](/assets/CV_en_Cedric_Foucault_2022-08.pdf)
 
-I’m a second-year PhD student at NeuroSpin under the supervision of Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). I am interested in using mathematical and computational models to understand human behavior and the cognitive processes that underlie it, in relation to the brain and its environment. I am pursuing a research career in cognitive and computational neuroscience.
+I’m a third-year PhD student at NeuroSpin under the supervision of Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). I am interested in using mathematical and computational models to understand human behavior and the cognitive processes that underlie it, in relation to the brain and its environment. I am pursuing a research career in cognitive and computational neuroscience.
 
 Previously, I completed a double Bachelor in computer science and in applied physics and a Master of research in computer science at the École Normale Supérieure Paris-Saclay (2010 – 2014), after completing the French classes préparatoires aux grandes écoles and passing the competitive entrance exam (2008 – 2010). Then, I worked as an iOS Software engineer at Apple in California (2015 – 2018). Finally, I completed a Master of research in cognitive science at the École Normale Supérieure of Paris (2018 – 2020) and started my current PhD (2020 – 2023). I will be looking for a postdoctoral position starting at the end of 2023 or beginning of 2024.
 
