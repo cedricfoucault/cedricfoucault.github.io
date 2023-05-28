@@ -10,7 +10,7 @@ title: Cédric Foucault
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
 [CV](/assets/CV_en_Cedric_Foucault_2023.pdf)
 
-I’m a third-year PhD student in cognitive computational neuroscience at NeuroSpin, University of Paris-Saclay, supervised by Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). In 2024, I will be a Junior Research Fellow at Christ Church, University of Oxford.
+I’m a third-year PhD student in cognitive computational neuroscience at NeuroSpin, University of Paris-Saclay, supervised by Florent Meyniel in the [Computational Brain team](https://www.unicog.org/lab/the-computational-brain/). In 2024, I will be working in the Department of Experimental Psychology at the University of Oxford as a Junior Research Fellow at Christ Church College.
 
 My research broadly seeks to understand the learning and decision-making processes involved when humans are confronted with dynamic and changing environments, using computational models, behavioural and neuroimaging experiments. During my PhD, I've specifically studied learning and the dynamic and adaptive nature of learning, through multiple levels of investigation:
 
