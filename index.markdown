@@ -12,7 +12,7 @@ title: Cédric Foucault
 
 I am interested in developing mathematical and computational models of cognition with the aim of understanding the processes by which people solve the problems they face in everyday life, and how these processes are carried out in the brain. I am particularly interested in problems involving inference, learning and decision-making, and how these processes unfold over time in dynamic environments.
 
-In December 2023, I defended my PhD in cognitive computational neuroscience under the supervision of Florent Meyniel at NeuroSpin (INSERM-CEA, Université Paris-Saclay, & Sorbonne Université). From March 2024, I will be a Junior Research Fellow of the Christ Church College at the University of Oxford, working in the Department of Experimental Psychology.
+In December 2023, I defended my PhD in cognitive computational neuroscience under the supervision of Florent Meyniel at NeuroSpin (INSERM-CEA, University of Paris-Saclay, & Sorbonne University). From March 2024, I will be a Junior Research Fellow of the Christ Church College at the University of Oxford, working in the Department of Experimental Psychology.
 
 During my PhD, I’ve studied the computational and neural bases of learning and inference in humans, brains and neural networks, through three studies.
 
