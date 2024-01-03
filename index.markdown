@@ -10,7 +10,7 @@ title: Cédric Foucault
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
 [CV](/assets/CV_en_Cedric_Foucault_2023.pdf)
 
-I am interested in developing mathematical and computational models of cognition with the aim of understanding the processes by which people solve the problems they face in everyday life, and how these processes are carried out in the brain. I am particularly interested in problems involving inference, learning and decision-making, and how these processes unfold over time in dynamic environments.
+I am interested in developing mathematical and computational models of cognition, with the aim of understanding the processes by which people solve the problems they face in everyday life, and how these processes are carried out in the brain. I study problems such as inference, learning and decision-making, taking into account that these problems are solved over time in real life, and looking at how they are solved over time in dynamic environments.
 
 In December 2023, I defended my PhD in cognitive computational neuroscience under the supervision of Florent Meyniel at NeuroSpin (INSERM-CEA, University of Paris-Saclay, & Sorbonne University). From March 2024, I will be a Junior Research Fellow of the Christ Church College at the University of Oxford, working in the Department of Experimental Psychology.
 
