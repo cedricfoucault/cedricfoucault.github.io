@@ -8,21 +8,16 @@ title: Cédric Foucault
 
 **Contact:** cedric.foucault<span style="font-size: 66%;"> at </span>gmail<span style="font-size: 66%;"> dot </span>com <br/>
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
-[CV](/assets/CV_en_Cedric_Foucault_2023.pdf)
+[CV](/assets/CV_Cedric_Foucault_2024-03.pdf)
 
 I am interested in developing mathematical and computational models of cognition, with the aim of understanding the processes by which people solve the problems they face in everyday life, and how these processes are carried out in the brain. I study problems such as inference, learning and decision-making, and how they are solved over time in dynamic environments.
 
-In December 2023, I defended my PhD in cognitive computational neuroscience under the supervision of Florent Meyniel at NeuroSpin (INSERM-CEA, University of Paris-Saclay, & Sorbonne University). From March 2024, I will be a Junior Research Fellow of the Christ Church College at the University of Oxford, working in the Department of Experimental Psychology.
+Since March 2024, I am a Junior Research Fellow of the Christ Church College at the University of Oxford. I am conducting my research in the Department of Experimental Psychology in collaboration with Laurence Hunt's lab and Matthew Rushworth's lab.
 
-During my PhD, I’ve studied the computational and neural bases of learning and inference in humans, brains and neural networks, through three studies.
+I completed my PhD in cognitive computational neuroscience between September 2020 and December 2023 under the supervision of Florent Meyniel at NeuroSpin (INSERM-CEA), in affiliation with University of Paris-Saclay and Sorbonne University. During my PhD, I studied the computational and neural bases of learning and probabilistic inference in the human brain using behaviour, fMRI, Bayesian models and recurrent neural networks.
 
-1. In a behavioural study, I examined how humans dynamically adapt their rate of updating during magnitude and probability learning, and found two determinants that regulate their dynamic adaptations in line with normative, Bayesian theory.
-Preprint available on bioRxiv: [doi.org/10.1101/2023.08.18.553813](https://doi.org/10.1101/2023.08.18.553813) (Foucault & Meyniel, 2023).
+Prior to this, I did a Master of research in cognitive neuroscience at the École Normale Supérieure de Paris (2018 - 2020), a Master of research in computer science at the École Normale Supérieure Paris-Saclay (2010 – 2014), and worked as an iOS Software engineer at Apple in California in between (2015 – 2018).
 
-2. In a theoretical study, I explored the mechanisms that could enable the brain to achieve normative adaptive learning using recurrent neural networks (RNNs). I found that this could be achieved by a tiny RNN with a gating mechanism, which allows the network to represent and use uncertainty to regulate learning. Research article published in eLife: [doi.org/10.7554/eLife.71801](https://doi.org/10.7554/eLife.71801) (Foucault & Meyniel, 2021). Code available [on GitHub](https://github.com/cedricfoucault/networks_for_sequence_prediction).
+Feel free to look at my CV and contact me at my email above.
 
-3. In an fMRI study, I and my team have investigated the neural coding of probability, a quantity whose neural bases have remained elusive. Using a new approach combining encoding models with approximation theory, we found a previously unknown nonlinear neural code of probability in the human brain within dorsolateral prefrontal and intraparietal cortices. Paper in preparation.
-
-Previously, I did a Master of research in cognitive neuroscience at the École Normale Supérieure de Paris (2018 - 2020), a Master of research in computer science at the École Normale Supérieure Paris-Saclay (2010 – 2014), and worked as an iOS Software engineer at Apple in California in between (2015 – 2018).
-
-See my CV for more information. Feel free to contact me at my email above.
+<!-- bundle exec jekyll serve -->
