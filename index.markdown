@@ -8,7 +8,7 @@ title: Cédric Foucault
 
 **Contact:** cedric.foucault<span style="font-size: 66%;"> at </span>gmail<span style="font-size: 66%;"> dot </span>com <br/>
 [Google Scholar](https://scholar.google.com/citations?user=3sU72sMAAAAJ) • [GitHub](https://github.com/cedricfoucault) • [LinkedIn](https://www.linkedin.com/in/cedricfoucault) <br/>
-[CV](/assets/CV_Cedric_Foucault_2024-05.pdf)
+[CV](/assets/CV_Cedric_Foucault_2024-08.pdf)
 
 I am interested in developing mathematical and computational models of cognition, with the aim of understanding the processes by which people solve the problems they face in everyday life, and how these processes are carried out in the brain. I study problems such as inference, learning and decision-making, and how they are solved over time in dynamic environments.
 
